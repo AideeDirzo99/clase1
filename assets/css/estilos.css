@@ -1,0 +1,17 @@
+.saludo {
+    color: blue;
+    background-color: aqua;
+    border: black solid 1px;
+    width: 500px;
+}
+
+.titulo {
+    color: brown;
+}
+
+ul {
+    list-style: none;
+}
+img {
+    width: 300px;
+}
